@@ -1,1 +1,1 @@
-# Statistical Consulting Analysis of extreme rainfall events
+# Statistical Consulting: Analysis of extreme rainfall events
