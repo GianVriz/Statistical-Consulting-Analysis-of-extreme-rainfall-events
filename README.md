@@ -13,7 +13,7 @@ The main aims of the proposed project are the following:
 * Extrapolation: using statistical methods to estimate missing values or extend the data to areas without any gauges.
 * Systematic biases: integrate weather radar and rain gauge information to reduce random errors.
 
-Following [Marra, et al. (2019)]https://www.sciencedirect.com/science/article/abs/pii/S0309170818309011), the two-parameter Weibull distribution is used to model the right tail of ordinary events (values $> 0.1$ mm).
+Following [Marra, et al. (2019)](https://www.sciencedirect.com/science/article/abs/pii/S0309170818309011), the two-parameter Weibull distribution is used to model the right tail of ordinary events (values $> 0.1$ mm).
     
 $\mathbb{F}(x;\lambda,\kappa)=1-e^{-{(x/\lambda)}^\kappa}$,
 where:
