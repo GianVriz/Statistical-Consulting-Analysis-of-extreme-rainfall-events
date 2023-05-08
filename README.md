@@ -46,8 +46,8 @@ The repository includes the following folders:
 
 ## Authors
 * Gian Luca Vriz - [GianVriz](https://github.com/GianVriz)
-* Riccardo De Santis
-* Mehwish Zaman
+* Riccardo De Santis - [Rickdesa](https://github.com/Rickdesa)
+* Mehwish Zaman - [mehwish66](https://github.com/mehwish66)
 
 ## References
 * Marra, Francesco et al. (2019). “A simplified MEV formulation to model extremes emerging from multiple nonstationary underlying processes”. In: Advances in Water Resources 127, pp. 280–290.
