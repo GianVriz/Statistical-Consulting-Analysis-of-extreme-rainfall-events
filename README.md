@@ -27,17 +27,17 @@ Papalexiou (2023)](https://www.sciencedirect.com/science/article/abs/pii/S030917
 Splitting the gauge data in training and test set, specific statistical tools are performed to study extrapolation's accuracy. XGboost turned out to be the best model to use for extending the data to areas without any gauges. However, while satellite data can aid in estimating data in gauge-free areas, they are not comprehensive enough to provide an acceptable depiction. A jointly analysis considering both satellite data and [Bioclimatic variables](https://worldclim.org/) increase the accuracy of the estimates. Thus, studying the existence of possible interconnections between the parameters of the Weibull distribution and Bioclimatic variables will be a crucial direction to improve extrapolation of extreme rainfall events.
 
 The repository includes the following folders:
-* *[Satellite data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Satellite-data)* \
+* *[Satellite data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/tree/main/Satellite%20data)* \
   It contains files related to satellite data we used.
-* *[Station data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Station-data)* \
+* *[Station data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/tree/main/Station%20data)* \
   It contains files related to station data we used.
 * *[Prepare data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Prepare%20data.ipynb)* \
   It contains files related to data cleaning and preparation.
-* *[Estimates](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Estimates)* \
+* *[Estimates](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/tree/main/Estimates)* \
   It contains files related to the estimated models.
-* *[Code](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Code)* \
+* *[Code]([https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Code](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Prepare%20data.ipynb))* \
   Code scripts in R.
-* *[Slides](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Slides)* \
+* *[Slides](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/tree/main/Slides)* \
   Slides and figure of the presentation at the University of Padua.
 
 ## Authors
