@@ -35,7 +35,7 @@ The repository includes the following folders:
   It contains files related to data cleaning and preparation.
 * *[Estimates](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/tree/main/Estimates)* \
   It contains files related to the estimated models.
-* *[Code]([https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Code](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Prepare%20data.ipynb))* \
+* *[Code](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/tree/main/Code)* \
   Code scripts in R.
 * *[Slides](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/tree/main/Slides)* \
   Slides and figure of the presentation at the University of Padua.
