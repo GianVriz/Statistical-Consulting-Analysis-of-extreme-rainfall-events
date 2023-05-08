@@ -50,3 +50,4 @@ The repository includes the following folders:
 * Fick, Stephen E. and Robert J. Hijmans (2017). “WorldClim 2: new 1-km spatial resolution climate surfaces for global land areas”. In: International Journal of Climatology 37.12, pp. 4302–4315.
 * Poboikova, Ivana and Zuzana Sedliakova (2014). “Comparison of four methods for estimating the Weibull distribution parameters”. In: Applied mathematical sciences 8, pp. 4137–4149.
 * Marra, Francesco, William Amponsah, and Simon Michael Papalexiou (2023). “Non-asymptotic Weibull tails explain the statistics of extreme daily precipitation”. In: Advances in Water Resources 173, p. 104388.
+* Zhang, Zeguo, Emil V. Stanev, and Sebastian Grayek (2020). “Reconstruction of the Basin-Wide Sea-Level Variability in the North Sea Using Coastal Data and Generative Adversarial Networks”. In: Journal of Geophysical Research: Oceans 125.12, e2020JC016402.
