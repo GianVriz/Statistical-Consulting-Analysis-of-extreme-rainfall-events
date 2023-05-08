@@ -31,7 +31,7 @@ The repository includes the following folders:
   It contains files related to satellite data we used.
 * *[Station data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Station-data)* \
   It contains files related to station data we used.
-* *[Prepare data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Prepare-data.ipynb)* \
+* *[Prepare data](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Prepare%20data.ipynb)* \
   It contains files related to data cleaning and preparation.
 * *[Estimates](https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/Estimates)* \
   It contains files related to the estimated models.
