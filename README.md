@@ -27,7 +27,7 @@ Papalexiou (2023)](https://www.sciencedirect.com/science/article/abs/pii/S030917
 Splitting the gauge data in training and test set, specific statistical tools are performed to study extrapolation's accuracy. XGboost turned out to be the best model to use for extending the data to areas without any gauges. However, while satellite data can aid in estimating data in gauge-free areas, they are not comprehensive enough to provide an acceptable depiction. A jointly analysis considering both satellite data and [Bioclimatic variables](https://worldclim.org/) increase the accuracy of the estimates. Thus, studying the existence of possible interconnections between the parameters of the Weibull distribution and Bioclimatic variables will be a crucial direction to improve extrapolation of extreme rainfall events.
 
 <p align="center">
-<img src="https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Slides/Wet_days_satellite_2008_2018.png" alt="drawing" width="300"/>   <img src="https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Slides/Wet_station_2000_2018.png" alt="drawing" width="300"/>
+<img src="https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Slides/Wet_days_satellite_2008_2018.png" alt="drawing" width="400"/>   <img src="https://github.com/GianVriz/Statistical-Consulting-Analysis-of-extreme-rainfall-events/blob/main/Slides/Wet_station_2000_2018.png" alt="drawing" width="400"/>
 <p>
 
 The repository includes the following folders:
